@@ -19,7 +19,7 @@ To install Azrael Grabber just extract the zip file and run the exe as administr
 
 
 
-Azreal Grabber shows
+# Azreal Grabber shows
 
 • GUI Builder.
 • UAC Bypass.
