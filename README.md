@@ -12,7 +12,7 @@ exploit the terminal and turns off the victim's antvirus so quickly they wont be
 We are not responsible for any damage done everything here is only for educational purposes only.
 
 
-**Installation** 
+# **Installation** 
 
 To install Azrael Grabber just extract the zip file and run the exe as administrator. Just as easy as that.
 
